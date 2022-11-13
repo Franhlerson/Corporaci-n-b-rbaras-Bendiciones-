@@ -1,3 +1,6 @@
+Fun Main() {
+    Println ("hello client")
+}
 # Compiled class file
 *.class
 
